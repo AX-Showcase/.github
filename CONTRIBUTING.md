@@ -16,13 +16,13 @@ Your feedback and questions are welcome.
 
 ## Providing feedback related to SIMATIC AX
 
-If you want to provide feedback, report bugs or request some support for SIMATIC AX you can use the official [support desk](https://console.prod.ax.siemens.cloud/) for AX.
+If you want to provide feedback, report bugs or request some support for SIMATIC AX you can use the official [support desk](official support desk) for AX.
 
 Do you think your feedback or question will be of interest to other AX users? Then you can also use the [SIMATIC AX Discussions](https://github.com/orgs/AX-Showcase/discussions)
 
 Your comments and feedback are welcome, and the development team is available via a handful of different channels.
 
-See the [Feedback Channels](https://github.com/microsoft/vscode/wiki/Feedback-Channels) wiki page for details on how to share your thoughts.
+See the [Feedback Channels](ref to our feedback channels).
 
 ## Reporting Issues
 
