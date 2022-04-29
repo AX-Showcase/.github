@@ -1,1 +1,3 @@
-this is our profile
+Welcome to the AX-Showcase group
+
+...
