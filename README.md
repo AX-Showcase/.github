@@ -1,3 +1,3 @@
 # .github 
 
-## my contribution
+## my contribution - a CLA need do be signed 
